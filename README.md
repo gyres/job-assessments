@@ -92,7 +92,7 @@ install.packages(c("tidyverse", "lubridate", "flexdashboard", "plotly", "cluster
 **Instructions:**
 1. **Clone the Repository:**
     ```bash
-    git clone https://github.com/Gyres/Job-Assessments.git
+    git clone https://github.com/gyres/Job-Assessments.git
     cd Job-Assessments
     ```
 2. **Select a Project:**
